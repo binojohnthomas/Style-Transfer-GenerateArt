@@ -176,7 +176,7 @@ evaluator = Evaluator()
 
 x = np.random.uniform(0, 255, (1, height, width, 3)) - 128.
 
-iterations = 3
+iterations = 7
 
 for i in range(iterations):
     print('Start of iteration', i)
